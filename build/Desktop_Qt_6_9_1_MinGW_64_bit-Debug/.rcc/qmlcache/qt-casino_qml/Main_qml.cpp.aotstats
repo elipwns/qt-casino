@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"diceRolled\".",
+                        "functionName": "onDiceRolled",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"diceRolled\".",
+                        "functionName": "onDiceRolled",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: gameLogic",
+                        "functionName": "gameLogic",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 22
+                    }
+                ],
+                "filePath": "C:/Users/elikl/Documents/GitHub/qt-casino/qml/Main.qml"
+            }
+        ],
+        "moduleId": "QtCasino(qt-casino)"
+    }
+]

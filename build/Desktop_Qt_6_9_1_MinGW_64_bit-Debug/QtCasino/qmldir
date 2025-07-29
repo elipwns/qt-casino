@@ -1,0 +1,6 @@
+module QtCasino
+typeinfo qt-casino.qmltypes
+prefer :/QtCasino/
+Main 1.0 qml/Main.qml
+CrapsTable 1.0 qml/CrapsTable.qml
+
