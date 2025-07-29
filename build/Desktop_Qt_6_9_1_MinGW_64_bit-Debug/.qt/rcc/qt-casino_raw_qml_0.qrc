@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/QtCasino/">
-    <file alias="qml/Main.qml">C:/Users/elikl/Documents/GitHub/qt-casino/qml/Main.qml</file>
-    <file alias="qml/CrapsTable.qml">C:/Users/elikl/Documents/GitHub/qt-casino/qml/CrapsTable.qml</file>
-  </qresource>
-</RCC>
-
