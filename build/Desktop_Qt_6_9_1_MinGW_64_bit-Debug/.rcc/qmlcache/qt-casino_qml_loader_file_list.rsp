@@ -1,6 +1,0 @@
---resource
-C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_QtCasino.qrc
---resource
-C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qt-casino_raw_qml_0.qrc
-/QtCasino/qml/Main.qml
-/QtCasino/qml/CrapsTable.qml

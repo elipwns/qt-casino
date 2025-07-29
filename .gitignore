@@ -52,3 +52,27 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# Build directories
+build/
+build-*/
+out/
+dist/
+
+# Qt Creator user files
+*.user
+*.user.*
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+# Visual Studio Code
+.vscode/
+
+# Terraform
+infrastructure/*.tfvars
+infrastructure/.terraform/
+infrastructure/terraform.tfstate*
