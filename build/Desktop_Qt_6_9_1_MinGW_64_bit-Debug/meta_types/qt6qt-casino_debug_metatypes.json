@@ -1,0 +1,104 @@
+[
+    {
+        "classes": [
+            {
+                "className": "GameLogic",
+                "lineNumber": 5,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "playerChips",
+                        "notify": "playerChipsChanged",
+                        "read": "playerChips",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "gameActive",
+                        "notify": "gameActiveChanged",
+                        "read": "gameActive",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "GameLogic",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "playerChipsChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "gameActiveChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "die1",
+                                "type": "int"
+                            },
+                            {
+                                "name": "die2",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "diceRolled",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "name": "rollDice",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "amount",
+                                "type": "int"
+                            },
+                            {
+                                "name": "betType",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 4,
+                        "name": "placeBet",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "gamelogic.h",
+        "outputRevision": 69
+    }
+]

@@ -1,0 +1,6 @@
+C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/qt-casino.dir
+C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/qt-casino_qmlimportscan.dir
+C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/qt-casino_autogen_timestamp_deps.dir
+C:/Users/elikl/Documents/GitHub/qt-casino/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/qt-casino_autogen.dir
